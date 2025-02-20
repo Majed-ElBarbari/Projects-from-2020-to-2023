@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1606563853 source:d:\majed\-\-\x-o\main.cpp
+	"funcs.hpp"
+
+1606515833 d:\majed\-\-\x-o\funcs.cpp
+	<iostream>
+	<array>
+	"funcs.hpp"
+
+1606660450 source:d:\majed\-\-\x-o\funcs.cpp
+	<iostream>
+	<array>
+	"funcs.hpp"
+
+1606650259 d:\majed\-\-\x-o\funcs.hpp
+
+1606563853 source:d:\majed\-\-\p\x-o\main.cpp
+	"funcs.hpp"
+
+1606650259 d:\majed\-\-\p\x-o\funcs.hpp
+
+1607846497 source:d:\majed\-\-\p\x-o\funcs.cpp
+	<iostream>
+	<array>
+	"funcs.hpp"
+
